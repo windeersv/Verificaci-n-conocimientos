@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+      <meta
+      <meta
+      <title>Prueba</title>
+</head>
+<body>
+<header>
+<main> 
+   Este texto prodria ser util si supiera que agregar en el apartado de meta ya que usamos atajos se hace complicado.
+
+
+
+
+</main>
+</header> 
+            <li>Negritas,subrayado,cursiva,subrayado,tachado<li>
+            
+<section>
+
+ 
+<ul>
+<li><a href="https://classarea.milaulas.com/mod/assign/view.php?id=1128"</a></li>
+</ul>
+ 
+
+</section>       
+              
+ <h2>Ejercicio2</h2>
+<ul>
+<li><a href="https://classarea.milaulas.com/mod/assign/view.php?id=1128"target="_blank"</a>Classarea</li>
+<li><a href="https://github.com/"target="_blank"</a>Github</li>
+<li><a href="https://novelasligera.com/"target=_blank"</a>Novelelas</li>
+</ul>
+
+
+<h2>Enlances que te dirijan a la misma pestaña pero a un texto en especifico sin cambiar de pagina </h2>
+<ul>
+<li><a href="#Introducion"</a></li>
+<li><a href="#Conclucion"</a></li>
+<li><A href="#Desarrollo"</a></li>
+
+</ul>
+
+<ul>
+ <h3>Archivos para Descargar</h3>
+
+ 
+<p><a href="documentos/Github.pdf" download>Descargar PDF</a></p>
+
+<p><a href="imagen/green.jpg" download>Descargar Imagen</a></p>
+    
+<p><a href="documentos/Github.txt" download>Descargar Documento de Texto</a></p>
+</ul>
+
+
+
+<p>Texto informativo sobre el covid-19  
+
+Introducción:
+
+El Covid 19 es una enfermedad infecciosa que afecta el aparato respiratorio, y  es causada por el virus coronavirus SARS-CoV-2. Éste virus se expandió desde China al resto del mundo desde diciembre del 2019, convirtiéndose en pandemia y decretándose cuarentena a nivel mundial el 11 de marzo 2020.
+
+Desarrollo:
+
+La transmisión del virus ocurre por medio de las mucosas, es decir, por la boca, nariz y ojos, por tocarse con las manos contaminadas con el virus estas mucosas.
+
+La enfermedad Covid-19 causa muchos síntomas en el paciente o persona que padece la enfermedad, estos incluyen desde síntomas mas simples a mas fuertes: dolor de cabeza, congestión nasal, dolor de garganta, decaimiento, fiebre, dolor del tórax, dolor de espalda, dificultad respiratoria, tos seca, entre otros.
+
+Las medidas de prevención son muy fáciles de cumplir e incluyen uso de tapabocas, lavado y desinfección de manos, desinfección de superficies, distanciamiento social, aislamiento de personas con síntomas, entre otros.
+
+Conclusión:
+
+El covid-19 es una enfermedad que podemos prevenir, y su prevención depende en gran manera de nuestro sentido de responsabilidad, por lo que debemos cumplir con las medidas establecidas quedándonos en casa, saliendo sólo a lo estrictamente necesario, usando tapabocas y cumpliendo con el distanciamiento. Si tu te cuidas, nos cuidamos todos.
+</p>
+<h3>Mi Galería de Imágenes</h3>
+ <ul>
+ <li>
+<a href="imagen/Frieren2.jpg">
+<img src="imagen/Frieren2.jpg" alt="Descripción de la imagen 1">
+</a>
+</li>
+<li>
+a href="imagen/Frieren.jpg">
+<img src="imagen/Frieren.jpg" alt="Descripción de la imagen 3">
+</a>
+</li>
+
+</body>
+</html>
