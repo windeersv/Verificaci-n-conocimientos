@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <p>Formulario</p>
+
+<table border="5">
+<tr>
+    <th colspan="9">Formulario</th>
+</tr>
+<tr>
+    <td>Name</td>
+    <td><input type="text" name="nombre"></td>
+</tr>
+<tr>
+    <td>Apellido</td>
+    <td><input type="text" apellido="apellido" ></td>
+</tr>
+<tr>
+    <td>Correo</td>
+    <td><input type="gmail" gmail="gmail"></td>
+</tr>
+<tr>
+    <td>edad</td>
+    <td><input type="number" edad="edad"></td>
+</tr>
+<tr>
+    <td>Contraseña</td>
+    <td><input type="password" password="password"></td>
+</tr>
+<td>Repite contraseña</td>
+<td><input type="password" password="password"></td>
+</tr>
+  
+</table>
+
+<button type="submit">Enviar</button>
+
+</body>
+</html>
+</body>
+</html>
