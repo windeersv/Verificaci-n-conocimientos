@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+
+<h2>Calendario de la muerte</h2>
+
+<p>Calendario</p>
+
+<table border="5">
+  <tr>
+    <th colspan="2">Enero</th>
+    <th colspan="2">Febrero</th>
+    <th colspan="2">Marzo</th>
+  </tr>
+  <tr>
+    <td>Nombre</td>
+    <td>Apellido</td>
+    <td>Venta</td>
+    <td>Compra</td>
+    <td>Festivo</td>
+    <td>Dieta</td>
+  </tr>
+    <td rowspan="2">Maria</td>
+    <td>Rodriguez</td>
+    <td colspan="2" rowspan="2"> 5000 </td>
+    <td>3/3/2024</td>
+    <td>500</td>
+  </tr>
+</table>
+
+</body>
+</html>
