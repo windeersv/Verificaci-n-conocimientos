@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpaceDate</title>
+    <link rel="icon" href="imagenes/Logo.png">
+</head>
+<body>
+    <header>
+        <h1>Interestelar</h1>
+        <img src="imagenes/Interestelar.jpg" alt="100">
+        
+    </header>
+<main>
+    <h2>psinopsis</h2>
+    Un grupo de cientificos y exploradores, encabezador por Cooper,
+    se embarcan en un viaje espacial para encontrar un lugar con las
+    condiciones necesarias para reemplazar a la tierra y comenzar
+    una nueva vida alli. 
+</main>
+<ul>
+
+<li><a href="#Play">Play</a></li>
+<li><a href="#Favorito">Favorito</a></li>
+<li><a href="#Like">Like</a></li>
+
+</ul>
+
+</body>
+</html>
